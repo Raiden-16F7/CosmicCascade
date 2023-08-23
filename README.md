@@ -1,6 +1,4 @@
-# CosmicCascade
-oh-my-posh Theme
-# My Beautiful Oh-my-posh Theme: CosmicCascade
+# My Oh-my-posh Theme: CosmicCascade
 
 ![CosmicCascade Theme Preview](CosmicCascade-raiden.png)
 
@@ -15,12 +13,18 @@ Welcome to the **ComsmicCascade** Oh-my-posh Shell Theme! This theme combines th
 
 ## Installation
 
-1. Clone this repository to your local machine:
-2. For windows navigate to oh-my-posh installation directory
+1. Clone this repository to your local machine.
+   
+For windows navigate to oh-my-posh installation directory
+   ```
    e.g C:/Users/YourName/AppData/Local/Programs/oh-my-posh/themes/
-3.Paste the JSON file there
-4.oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\CosmicCascade.omp.json"
+   ```
+2.Paste the JSON file there.
 
+3.Paste the following command to check if working.
+   ```
+   oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\CosmicCascade.omp.json"
+   ```
 ## Customization
 
 Feel free to customize this theme according to your preferences. You can modify the colors, prompts, fonts, and more.
