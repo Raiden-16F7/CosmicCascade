@@ -1,6 +1,6 @@
 # CosmicCascade
 oh-my-posh Theme
-# My Beautiful Bashrc Shell Theme: CosmicCascade
+# My Beautiful Oh-my-posh Theme: CosmicCascade
 
 ![CosmicCascade Theme Preview](CosmicCascade-raiden.png)
 
